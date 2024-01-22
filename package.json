@@ -1,0 +1,21 @@
+{
+  "name": "mini-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Parser.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.23.7",
+    "@babel/parser": "^7.23.6",
+    "@babel/preset-env": "^7.23.8",
+    "@babel/traverse": "^7.23.7"
+  }
+}
